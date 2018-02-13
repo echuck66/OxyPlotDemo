@@ -10,3 +10,8 @@ This project is my first look at the capabilities of OxyPlot. So far it looks fa
 Both Android and iOS project run.
 
 This is a Xamarin.Forms application
+
+## Screenshots
+Android | iOS
+-------------
+![Android](./images/android.plot.png) | ![iOS](./images/ios.plot.png)
