@@ -13,5 +13,5 @@ This is a Xamarin.Forms application
 
 ## Screenshots
 Android | iOS
--------------
+--------|--------
 ![Android](./images/android.plot.png) | ![iOS](./images/ios.plot.png)
