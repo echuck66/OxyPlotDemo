@@ -9,7 +9,7 @@ This project is my first look at the capabilities of OxyPlot. So far it looks fa
 
 The screenshots show the same function 
 
-> y = cos(x)
+> y = sin(x)
 
 Both Android and iOS project run.
 
