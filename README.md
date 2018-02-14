@@ -11,7 +11,7 @@ The screenshots show the same function
 
 `f(x) = sin(x)`
 
-Both Android and iOS project run.
+## Notes
 
 This is a Xamarin.Forms application
 
