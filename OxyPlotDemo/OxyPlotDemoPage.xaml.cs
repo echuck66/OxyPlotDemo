@@ -27,11 +27,11 @@ namespace OxyPlotDemo
             // 
             for (double x = -10; x <= 10; x = x + .1)
             {
-                var y = Math.Sin(x);
+                var y = Math.Pow(x, x);
                 points.Add(new DataPoint(x,y));
             }
-
-            var model = new PlotModel { Title = "LineSeries" };
+            string title = "f(x) = x^x";
+            var model = new PlotModel { Title = title };
             var lineSeries = new LineSeries { MarkerType = MarkerType.Cross };
             lineSeries.Points.AddRange(points);
             model.Series.Add(lineSeries);

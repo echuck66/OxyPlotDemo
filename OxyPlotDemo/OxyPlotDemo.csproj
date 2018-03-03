@@ -39,7 +39,6 @@
       <DependentUpon>OxyPlotDemoPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="DataPoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="OxyPlot">
